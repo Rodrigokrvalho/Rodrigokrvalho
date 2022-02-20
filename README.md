@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodrigokrvalho
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and TypeScript
 - 📫 How to reach me rodrigos-carvalho@hotmail.com
 
 <!---
