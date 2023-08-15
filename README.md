@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Rodrigokrvalho
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning JavaScript and TypeScript
-- 📫 How to reach me rodrigos-carvalho@hotmail.com
+![cover](../blob/main/assets/imgs/cover.png?raw=true)
 
-<!---
-Rodrigokrvalho/Rodrigokrvalho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello! I'm Rodrigo Carvalho. 
+**Frontend develper**
+
+[linkedin](https://linkedin.com/in/rodrigokrvalho)
