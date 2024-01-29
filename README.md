@@ -1,8 +1,6 @@
 # Hello! I'm Rodrigo Carvalho. Front-end developer
 
-[web profile](https://rodrigocarvalhodev.com.br)
-[linkedin](https://linkedin.com/in/rodrigokrvalho)
-
+**[linkedin](https://linkedin.com/in/rodrigokrvalho)     [web profile](https://rodrigocarvalhodev.com.br)**
 
 ![LinkedIn cover - 2](https://github.com/Rodrigokrvalho/Rodrigokrvalho/assets/54452396/9d909091-e6d1-4949-a98f-8989b15dc6c7)
 
@@ -10,4 +8,4 @@ My favorite language is definitely Javascript, especially Typescript, but I star
 
 *Technology is my passion and understanding how things work is my life goal.*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigokrvalho&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigokrvalho&hide=javascript,css,scss,html&theme=tokyonight) 
